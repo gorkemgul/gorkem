@@ -1,2 +1,2 @@
 # gorkem
-These are the functions that I've written or taken from someone else
+These are the functions that I wrote or took from someone else
